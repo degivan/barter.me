@@ -1,23 +1,23 @@
 package itmo.sd.barter.storages;
 
-import itmo.sd.barter.data.User;
+import itmo.sd.barter.data.UserInfo;
 
 public class UserSqlStorage implements UserStorage {
 
 
-    public User create(User value) {
+    public UserInfo create(UserInfo value) {
         return null;
     }
 
-    public User update(User value) {
+    public UserInfo update(UserInfo value) {
         return null;
     }
 
-    public User delete(User value) {
+    public UserInfo delete(UserInfo value) {
         return null;
     }
 
-    public Iterable<User> findAll() {
+    public Iterable<UserInfo> findAll() {
         return null;
     }
 }

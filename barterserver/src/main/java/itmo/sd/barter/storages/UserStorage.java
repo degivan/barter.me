@@ -1,7 +1,7 @@
 package itmo.sd.barter.storages;
 
-import itmo.sd.barter.data.User;
+import itmo.sd.barter.data.UserInfo;
 
-public interface UserStorage extends Storage<User> {
+public interface UserStorage extends Storage<UserInfo> {
 
 }
