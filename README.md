@@ -6,7 +6,7 @@
 Серверная часть:
 * Java 8
 * Spring
-* SQL
+* SQL под JOOQ'ом
 
 Клиентская часть:
 * JavaScript
@@ -16,3 +16,7 @@
 * JUnit
 * Selenium
 * Chai и mocha
+
+### Dev info:
+
+Сгенерировать классы для работы с БД можно командой `mvn generate`.
