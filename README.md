@@ -17,6 +17,6 @@
 * Selenium
 * Chai и mocha
 
-### Dev info:
+### Dev Info:
 
-Сгенерировать классы для работы с БД можно командой `mvn generate`.
+Сгенерировать классы для работы с БД можно командой `mvn generate-resources`.
